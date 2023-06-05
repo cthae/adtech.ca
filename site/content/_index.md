@@ -1,6 +1,6 @@
 ---
-title: "Bulletproof marketing by ad monitoring"
-subtitle: Regular testing of your advertisement material to make sure no click goes awry
+title: "No click goes awry"
+subtitle: "Bulletproof marketing by ad monitoring"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: "Why monitor?"

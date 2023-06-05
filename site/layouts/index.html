@@ -4,10 +4,14 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "2-up" .Params }}
+{{ partial "short-text" .Params.blurb1}}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "short-text" .Params.blurb2}}
 
-{{ partial "blog" . }}
+{{ partial "short-text" .Params.blurb3}}
+
+{{ partial "short-text" .Params.blurb4}}
+
+{{ partial "short-text" .Params.blurb5}}
 
 {{ end }}
