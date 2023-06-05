@@ -10,6 +10,6 @@ blurb1:
     text: "We offer recurring hourly checks of your ads, marketing or affiliate links and landing pages to make sure the customer journey doesn't suffer from either ad partner or ad manager making changes in the ad platform. We also help to make sure your web developers or content managers don't harm the landing pages or the main CTAs. We offer seamless integration with your Marketing and Analytics to improve the quality of the monitoring."
 blurb2:
     heading: "Our mission"
-    text: "We aim to optimize ad spendings and reduce the harm done to the brand by notifying the key stakeholders early when their paid customers hit malfunctioning, unrelated or broken pages instead of proper landing pages. Thus, making the world of advertisement a more welcoming and reliable environment."
+    text: "We aim to optimize ad spendings and reduce brand damage by notifying the key stakeholders early when their paid leads start hitting malfunctioning, unrelated or broken pages instead of proper landing pages. Thus, making the world of advertisement a more welcoming and reliable environment."
 ---
 
