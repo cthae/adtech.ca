@@ -1,20 +1,15 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Bulletproof marketing by ad monitoring"
+subtitle: Regular testing of your advertisement material to make sure no click goes awry
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "Why monitor?"
+    text: "Adtest specializes in regular automated marketing advertisements and backlink testing with human confirmation and debugging. We noticed recurring issues in enterprise-level ad consumers that end up wasting money and harming the brand. Mostly cases of paid traffic getting to wrong or non-existent landings consistently for months."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    text: "We offer recurring hourly checks of your ads, marketing or affiliate links and landing pages to make sure the customer journey doesn't suffer from either ad partner or ad manager making changes in the ad platform. We also help to make sure your web developers or content managers don't harm the landing pages or the main CTAs. We offer seamless integration with your Marketing and Analytics to improve the quality of the monitoring."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: "Our mission"
+    text: "We aim to optimize ad spendings and reduce the harm done to the brand by notifying the key stakeholders early when their paid customers hit malfunctioning, unrelated or broken pages instead of proper landing pages. Thus, making the world of advertisement a more welcoming and reliable environment."
 ---
 
